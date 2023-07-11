@@ -34,7 +34,7 @@ class Result extends StatelessWidget {
                 ),
 
                 TextButton(
-                  child: Text('Restart Quiz'),
+                  child: Text('Restart Quiz'), 
                   onPressed:resetHandler ,
                 ),
              ],
